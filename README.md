@@ -69,8 +69,8 @@ PC2 ---/
 
 ## 🖼️ Screenshot of Logical Topology
 
-![LAN Screenshot](screenshot.png)
-> *(Replace with your actual screenshot from Packet Tracer's logical workspace)*
+![Screenshot 2025-07-05 131455](https://github.com/user-attachments/assets/02898da4-0ca0-4fbe-9863-32b50a0aa5aa)
+
 
 ---
 
