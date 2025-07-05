@@ -1,4 +1,4 @@
-#  Construction of Simple LAN and Understanding ARP using Cisco Packet Tracer
+# Construction of Simple LAN and Understanding ARP using Cisco Packet Tracer
 
 ## 📌 Aim
 To construct a simple Local Area Network (LAN) using Cisco Packet Tracer and to observe the working of the Address Resolution Protocol (ARP) for resolving IP addresses to MAC addresses.
