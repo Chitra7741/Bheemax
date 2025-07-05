@@ -86,13 +86,3 @@ PC2 ---/
 - Cisco Packet Tracer provides a visual and interactive way to understand ARP.
 
 ---
-
-## 👨‍💻 Author
-**Chitra Harsha Vardhan Kumar**  
-**Date:** July 2025
-
----
-
-## 🔗 References
-- Cisco Networking Academy
-- CCNA Curriculum: Network Fundamentals
